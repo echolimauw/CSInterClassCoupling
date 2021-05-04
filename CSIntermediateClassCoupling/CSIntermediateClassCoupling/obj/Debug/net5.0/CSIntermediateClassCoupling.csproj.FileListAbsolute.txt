@@ -1,0 +1,16 @@
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.exe
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.deps.json
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.runtimeconfig.json
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.runtimeconfig.dev.json
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.dll
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\ref\CSIntermediateClassCoupling.dll
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\bin\Debug\net5.0\CSIntermediateClassCoupling.pdb
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.csprojAssemblyReference.cache
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.AssemblyInfoInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.AssemblyInfo.cs
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.csproj.CoreCompileInputs.cache
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.dll
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\ref\CSIntermediateClassCoupling.dll
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.pdb
+C:\Users\eleah\source\repos\CSIntermediateClassCoupling\CSIntermediateClassCoupling\obj\Debug\net5.0\CSIntermediateClassCoupling.genruntimeconfig.cache
