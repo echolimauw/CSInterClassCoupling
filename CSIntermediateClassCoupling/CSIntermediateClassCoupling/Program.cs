@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CSIntermediateClassCoupling
+﻿namespace CSIntermediateClassCoupling
 {
     partial class Program
     {
